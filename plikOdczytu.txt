@@ -1,0 +1,3 @@
+To jest pierwsza linijka
+Ala ma kota
+Jak ¿yæ?
